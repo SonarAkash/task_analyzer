@@ -48,6 +48,13 @@ The base score is calculated as:
 
 ---
 
+## ⏱️ Time Breakdown
+* **Backend & Models:** 45 mins
+* **Algorithm & Strategy Pattern:** 1 hour
+* **Frontend (UI/UX):** 1 hour
+* **Testing & Documentation:** 30 mins
+* **Total:** ~3 hours 15 mins
+
 
 ## ✅ Bonus Challenges Attempted
 * **Unit Tests:** comprehensive tests in `tasks/tests.py` verifying all strategies.
